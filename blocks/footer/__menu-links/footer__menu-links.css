@@ -1,0 +1,13 @@
+.footer__menu-links {
+    display: flex;
+    list-style-type: none;
+    margin-block-start: 0;
+    margin-block-end: 0;
+    padding-inline-start: 0;
+}
+
+@media all and (max-width: 500px) {
+    .footer__menu-links {
+        flex-direction: column;
+    }
+}

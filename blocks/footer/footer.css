@@ -1,0 +1,36 @@
+@import url(./__menu/footer__menu.css);
+@import url(./__menu-links/footer__menu-links.css);
+@import url(./__menu-link/footer__menu-link.css);
+@import url(./__menu-item/footer__menu-item.css);
+@import url(./__copyright/footer__copyright.css);
+
+.footer {
+    max-width: 1184px;
+    margin: 0 auto;
+    padding: 92px 0 24px 0;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    align-items: flex-end;
+}
+
+@media all and (max-width: 1024px) {
+    .footer {
+        max-width: 928px;
+    }
+}
+
+@media all and (max-width: 768px) {
+    .footer {
+        padding-top: 88px;
+        max-width: 720px;
+    }
+}
+
+@media all and (max-width: 500px) {
+    .footer {
+        padding-top: 64px;
+        flex-direction: column;
+        align-items: start;
+    }
+}

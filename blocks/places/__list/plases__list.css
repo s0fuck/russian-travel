@@ -1,0 +1,8 @@
+.plases__list {
+    list-style-type: none;
+    margin-block-start: 0;
+    margin-block-end: 0;
+    padding-inline-start: 0;
+    display: grid;
+    grid-gap: 80px;
+}

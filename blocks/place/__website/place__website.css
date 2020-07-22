@@ -1,0 +1,13 @@
+.place__website {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-self: end;
+    height: 46px;
+}
+
+@media all and (max-width: 750px) {
+    .place__website {
+        display: none;
+    }
+}

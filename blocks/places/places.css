@@ -1,0 +1,29 @@
+@import url("./__list/plases__list.css");
+
+
+.places {
+    margin: 0 auto;
+    max-width: 984px;
+    padding-top: 92px;
+}
+
+@media all and (max-width: 1024px) {
+    .places {
+        max-width: 925px;
+    }
+}
+
+@media all and (max-width: 960px) {
+    .places {
+        max-width: 720px;
+        padding-top: 86px;
+    }
+}
+
+@media all and (max-width: 750px) {
+    .places {
+        max-width: 320px;
+        padding-top: 64px;
+
+    }
+}
