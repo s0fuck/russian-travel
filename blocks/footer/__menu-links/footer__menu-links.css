@@ -6,7 +6,7 @@
     padding-inline-start: 0;
 }
 
-@media all and (max-width: 500px) {
+@media all and (max-width: 570px) {
     .footer__menu-links {
         flex-direction: column;
     }

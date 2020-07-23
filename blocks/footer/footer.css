@@ -6,6 +6,7 @@
 
 .footer {
     max-width: 1184px;
+    width: calc(100% - 96px);
     margin: 0 auto;
     padding: 92px 0 24px 0;
     display: flex;
@@ -24,6 +25,7 @@
     .footer {
         padding-top: 88px;
         max-width: 720px;
+        width: calc(100% - 48px);
     }
 }
 

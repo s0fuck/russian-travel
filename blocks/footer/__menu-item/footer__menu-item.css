@@ -7,13 +7,13 @@
 }
 
 
-@media all and (max-width: 700px) {
+@media all and (max-width: 705px) {
     .footer__menu-item:first-of-type {
         margin-left: 16px;
     } 
 }
 
-@media all and (max-width: 500px) {
+@media all and (max-width: 570px) {
     .footer__menu-item {
         margin-left: 16px;
         margin-top: 32px;

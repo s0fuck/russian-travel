@@ -13,6 +13,7 @@
     
     .cover {
         max-width: 1024px;
+        height: 640px;
     }
     
 }

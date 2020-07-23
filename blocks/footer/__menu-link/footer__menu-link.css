@@ -12,7 +12,7 @@
     opacity: 0.8;
 }
 
-@media all and (max-width: 500px) {
+@media all and (max-width: 570px) {
     .footer__menu-link {
         font-size: 24px;
         line-height: 24px;
