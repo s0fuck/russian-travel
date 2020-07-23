@@ -82,7 +82,7 @@
   src: url("Inter-MediumItalic.woff2?v=3.13") format("woff2"),
        url("Inter-MediumItalic.woff?v=3.13") format("woff");
 } */
-
+/* 
 @font-face {
   font-family: 'Inter';
   font-style:  normal;
@@ -90,7 +90,7 @@
   font-display: swap;
   src: url("Inter-SemiBold.woff2?v=3.13") format("woff2"),
        url("Inter-SemiBold.woff?v=3.13") format("woff");
-}
+} */
 /* @font-face {
   font-family: 'Inter';
   font-style:  italic;
@@ -117,14 +117,14 @@
        url("Inter-BoldItalic.woff?v=3.13") format("woff");
 } */
 
-@font-face {
+/* @font-face {
   font-family: 'Inter';
   font-style:  normal;
   font-weight: 800;
   font-display: swap;
   src: url("Inter-ExtraBold.woff2?v=3.13") format("woff2"),
        url("Inter-ExtraBold.woff?v=3.13") format("woff");
-}
+} */
 /* @font-face {
   font-family: 'Inter';
   font-style:  italic;
